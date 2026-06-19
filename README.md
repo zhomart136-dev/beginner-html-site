@@ -1,4 +1,8 @@
-# Beginner HTML Site
+Отчет
+Я изменил дизайн страницы, чтобы она выглядела более современной и привлекательной для пользователей. Вместо обычного текста был добавлен яркий верхний блок с цветным фоном, который сразу привлекает внимание посетителя.
 
-This is a basic one-page website to help beginners learn the fundamentals of HTML.
-You can follow this code while learning from the [HTML basics](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/HTML_basics) course.
+Также я добавил новую секцию с карточками преимуществ. Она помогает лучше представить основные достоинства Mozilla и делает информацию более наглядной и удобной для восприятия.
+
+Кроме того, были добавлены стили CSS: красивые цвета, отступы, эффекты наведения и адаптация под мобильные устройства. Благодаря этим изменениям сайт стал выглядеть как полноценный современный лендинг, а не как стандартная учебная страница.
+ссылка на fork:https://github.com/zhomart136-dev/beginner-html-site
+ссылка на живой сайт https://beginner-html-site-jet.vercel.app/
